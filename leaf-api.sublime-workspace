@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"const",
+				"constructor\t(auth.js)"
+			],
+			[
+				"Auth",
+				"AuthService"
+			],
+			[
+				"User",
+				"UserService\t(index.js)"
+			],
+			[
+				"EN",
+				"ENTRYPOINT\t(prod.docker)"
+			],
+			[
+				"rancher-com",
+				"rancher-compose"
+			],
+			[
+				"before",
+				"before\t(auth.test.js)"
+			],
+			[
+				"goo",
+				"googleId"
+			],
+			[
+				"ol",
+				"oldEmail"
+			],
+			[
+				"redis",
+				"redisSub"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"addVer",
+				"addVerificationTokenIfNotExists\t(user.js)"
+			],
+			[
+				"veri",
+				"verificationToken"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"local",
+				"localization\t(index.js)"
+			],
+			[
+				"ver",
+				"verificationToken\t(verify.js)"
+			],
+			[
+				"compare",
+				"comparePassword\t(user.js)"
+			],
+			[
+				"settin",
+				"settingsId"
+			],
+			[
+				"re",
+				"return\t@return"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 79.0,
+		"last_filter": "handle",
+		"selected_items":
+		[
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jsne",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"editr",
+				"Snippet: editorconfig"
+			],
+			[
+				"editor",
+				"Snippet: editorconfig"
+			],
+			[
+				"json",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				":4",
+				"Set Syntax: camlp4"
+			],
+			[
+				"4",
+				"Set Syntax: camlp4"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kirito/leaf-ci/leaf-api"
+	],
+	"file_history":
+	[
+		"/home/kirito/leaf-ci/leaf-api/leaf-api.sublime-project",
+		"/home/kirito/leaf-ci/leaf-web/config/environment.js",
+		"/home/kirito/leaf-ci/leaf-web/app/index.html",
+		"/home/kirito/leaf-ci/leaf-web/package.json",
+		"/home/kirito/leaf-ci/leaf-web/ember-cli-build.js",
+		"/home/kirito/leaf-ci/leaf-web/app/styles/app.scss",
+		"/home/kirito/ember-quickstart/app/templates/application.hbs",
+		"/home/kirito/ember-quickstart/app/templates/scientists.hbs",
+		"/home/kirito/ember-quickstart/app/templates/components/people-list.hbs",
+		"/home/kirito/ember-quickstart/app/routes/scientists.js",
+		"/home/kirito/labs/peer-2.c",
+		"/home/kirito/labs/peer-1.c",
+		"/home/kirito/labs/mutex-2.c",
+		"/home/kirito/labs/mutex-1.c",
+		"/home/kirito/fuck/peer-1.c",
+		"/home/kirito/fuck/peer-2.c",
+		"/home/kirito/fuck/mutex-1.c",
+		"/home/kirito/fuck/mutex-2.c",
+		"/home/kirito/mevics-microservices/circle.yml",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/stats.test.js",
+		"/home/kirito/mevics-microservices/api-v1/circle.yml",
+		"/home/kirito/mevics-microservices/api-promo/circle.yml",
+		"/home/kirito/mevics-microservices/app-promo/circle.yml",
+		"/home/kirito/mevics-microservices/cdn/circle.yml",
+		"/home/kirito/mevics-microservices/mail-worker/circle.yml",
+		"/home/kirito/mevics-microservices/web-site/circle.yml",
+		"/home/kirito/mevics-microservices/api-v1/src/models/user/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/verify-service.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/user-service.js",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/auth.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/verify/index.js",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/uploads.test.js",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/users.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/subscriptions/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/users/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/stats/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/settings/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/stats/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/stats-service.js",
+		"/home/kirito/mevics-microservices/api-v1/docs/verify.md",
+		"/home/kirito/mevics-microservices/api-v1/docs/users.md",
+		"/home/kirito/mevics-microservices/api-v1/docs/stats.md",
+		"/home/kirito/mevics-microservices/api-v1/docs/settings.md",
+		"/home/kirito/mevics-microservices/api-v1/docs/health-check.md",
+		"/home/kirito/mevics-microservices/api-v1/docs/auth.md",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/settings.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/middleware/jwt-auth.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/health-check.js",
+		"/home/kirito/mevics-microservices/api-v1/src/models/stats.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/auth/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/auth-service.js",
+		"/home/kirito/mevics-microservices/api-v1/docs/subscription.md",
+		"/home/kirito/mevics-microservices/api-v1/src/models/user/user-schema.js",
+		"/home/kirito/mevics-microservices/api-v1/src/models/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/auth/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/src/mail/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/verify/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/photo-service.js",
+		"/home/kirito/mevics-microservices/api-v1/src/routers/api-v1-router.js",
+		"/home/kirito/mevics-microservices/api-v1/src/db/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/uploads.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/db/options.json",
+		"/home/kirito/mevics-microservices/api-v1/src/middleware/error-handler.js",
+		"/home/kirito/mevics-microservices/api-v1/src/middleware/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/middleware/not-found.js",
+		"/home/kirito/mevics-microservices/api-v1/test/index.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/index.js",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/verify.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/passports/local.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/settings-service.js",
+		"/home/kirito/mevics-microservices/api-v1/src/passports/credentials.json",
+		"/home/kirito/mevics-microservices/api-v1/src/passports/google+.js",
+		"/home/kirito/mevics-microservices/api-v1/src/passports/facebook.js",
+		"/home/kirito/mevics-microservices/api-v1/src/middleware/localization.js",
+		"/home/kirito/mevics-microservices/api-v1/test/mail/index.test.js",
+		"/home/kirito/mevics-microservices/api-v1/src/models/subscriber.js",
+		"/home/kirito/mevics-microservices/api-v1/src/models/settings.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/settings/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/subscriptions/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/users/validation.js",
+		"/home/kirito/mevics-microservices/api-v1/docs/README.md",
+		"/home/kirito/mevics-microservices/api-promo/package.json",
+		"/home/kirito/mevics-microservices/api-v1/package.json",
+		"/home/kirito/mevics-microservices/api-promo/src/index.js",
+		"/home/kirito/mevics-microservices/api-promo/src/bin/www.js",
+		"/home/kirito/mevics-microservices/api-promo/src/services/auth.js",
+		"/home/kirito/mevics-microservices/api-promo/src/controllers/auth.js",
+		"/home/kirito/mevics-microservices/api-promo/src/services/blog-post.js",
+		"/home/kirito/mevics-microservices/api-promo/src/services/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/passports/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/bin/www.js",
+		"/home/kirito/mevics-microservices/api-v1/src/services/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/verify.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/subscriptions.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/settings.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/auth.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/users.js",
+		"/home/kirito/mevics-microservices/api-v1/src/constants/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/mail/mailer.js",
+		"/home/kirito/mevics-microservices/api-v1/src/routers/index.js",
+		"/home/kirito/mevics-microservices/api-v1/test/controllers/health-check.test.js",
+		"/home/kirito/mevics-microservices/api-v1/test/index.js",
+		"/home/kirito/mevics-microservices/api-v1/src/controllers/concerns/photos.js",
+		"/home/kirito/mevics-microservices/web-site/build.docker",
+		"/home/kirito/mevics-microservices/web-site/dev.docker",
+		"/home/kirito/mevics-microservices/cdn/prod.docker",
+		"/home/kirito/mevics-microservices/app-promo/main.docker",
+		"/home/kirito/mevics-microservices/web-site/docker-compose.yml",
+		"/home/kirito/mevics-microservices/web-site/main.docker",
+		"/home/kirito/mevics-microservices/api-v1/src/models/user.js",
+		"/home/kirito/mevics-microservices/api-v1/src/models/user/user.schema.js",
+		"/home/kirito/mevics-microservices/api-promo/.gitignore",
+		"/home/kirito/mevics-microservices/mail-worker/src/components/transport.js",
+		"/home/kirito/mevics-microservices/mail-worker/src/components/consumer.js",
+		"/home/kirito/mevics-microservices/mail-worker/src/bin/run.js",
+		"/home/kirito/mevics-microservices/mail-worker/src/constants/index.js",
+		"/home/kirito/mevics-microservices/mail-worker/src/index.js",
+		"/home/kirito/mevics-microservices/mail-worker/test/index.test.js",
+		"/home/kirito/mevics-microservices/api-promo/src/middleware/jwt-auth.js",
+		"/home/kirito/mevics-microservices/api-promo/src/middleware/index.js",
+		"/home/kirito/mevics-microservices/api-promo/src/models/mixins/post.js",
+		"/home/kirito/mevics-microservices/api-promo/prod.docker",
+		"/home/kirito/mevics-microservices/.gitignore",
+		"/home/kirito/mevics-microservices/api-promo/src/models/blog-post.js",
+		"/home/kirito/mevics-microservices/api-promo/src/passports/local.js",
+		"/home/kirito/mevics-microservices/api-promo/src/routers/pr-v1.js",
+		"/home/kirito/mevics-microservices/api-promo/src/controllers/doctors.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sass",
+			"i",
+			");\n",
+			"msg->text",
+			"->",
+			"data",
+			"Authorization",
+			"userData",
+			"    {\n      \"userData\": {\n          _id: String,\n          name: String,\n          birthdate: Date,\n          gender: String,\n          photoUrl: String,\n          email: String,\n          facebook: {\n            id: String,\n            email: String,\n          },\n          google: {\n            id: String,\n            email: String,\n          },\n          settingsId: String,\n          statsId: String,\n      },\n      token: String\n    }",
+			"Authorization",
+			"user.id",
+			"user",
+			".select('-_id')",
+			"postureQualities",
+			"stats",
+			"daily: {\n          date: Date.now(),\n          value: 100,\n        },",
+			"resolveToken",
+			"resolve",
+			"user",
+			"getStats",
+			"data",
+			"facebook.email",
+			"facebook",
+			"facebook.id",
+			"facebook",
+			"OK",
+			"resolve",
+			"userData",
+			"prope",
+			"SECRET",
+			"Authorization",
+			"[type]",
+			"[description]",
+			"google.",
+			"google.email",
+			"google.id",
+			"google.",
+			"Google",
+			"google",
+			"resolveToken",
+			" = null",
+			"addSetting",
+			"addSetting({\n        deviceId: 'veryUniqueId",
+			"addStats",
+			"resolveToken",
+			"delete",
+			"merge",
+			"pick",
+			"add",
+			"token",
+			"callback",
+			"isEmpty",
+			"t",
+			"add",
+			"google",
+			"newUser",
+			"Data",
+			"Authorization",
+			"Email",
+			"google.email",
+			"google.id",
+			"google",
+			"facebook.email",
+			"facebook.id",
+			"facebook.i",
+			"facebook",
+			"facebook.id",
+			"facebook",
+			"google",
+			".google",
+			" google",
+			".google",
+			"google",
+			"db",
+			"User",
+			"user",
+			"User",
+			"db",
+			"function",
+			"db.model",
+			"db",
+			"function",
+			"lang",
+			"StatsEditSchema",
+			"email",
+			"body",
+			"age",
+			"isEmpty",
+			"StatsEditSchema",
+			"console",
+			"value",
+			"Settings",
+			"JoinSchema",
+			"newUser",
+			"email",
+			"age",
+			"join",
+			"Joi",
+			"\"",
+			"\": ",
+			"email\":",
+			"\"",
+			"Promise",
+			"oldEmail",
+			"mailToUnlikedUser",
+			"mailToUnlinkedUser",
+			"mailToUnlikedUser",
+			"userPhoto",
+			"photosUploader",
+			"facebookMail",
+			"hash",
+			"signAsync",
+			"jsonwebtoken",
+			"isEmail",
+			"API_URL",
+			"isEmpty",
+			"Schema",
+			"Promise",
+			"signAsync",
+			"isEmpty",
+			"API_URL",
+			"stats",
+			"oldSetting",
+			"changed",
+			"getPublicPhotoUrl",
+			"getPublicPhotoUrls",
+			"getStats",
+			"updateToken"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "leaf-api.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user-service",
+				"api-v1/src/services/user-service.js"
+			],
+			[
+				"menu",
+				"app-promo/src/bower_components/angular-ui-grid/less/menu.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/leaf-ci/leaf-api/leaf-api.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
